@@ -1,0 +1,11 @@
+npm run build
+
+genera build folder
+
+para probar, se puede usar servidor rápido con http-server
+en node. Usa un localhost.
+
+npm install -g http-server
+luego -> http-server -o
+
+desplegando en githubpages
